@@ -64,7 +64,8 @@ total = calcular_total_factura(cantidad_sin_iva, porcentaje_iva)
 
 print(f"El total de la factura es: {total:.2f}")
 ![image](https://github.com/user-attachments/assets/a8da32ae-1c9f-40eb-8149-d287c2b44304)
-![image](https://github.com/user-attachments/assets/5f3b3913-7745-404f-a560-671e9e6443bf)
+![image](https://github.com/user-attachments/assets/d8ae29ed-396c-4879-ac63-6d06a895e630)
+
 
 
 
